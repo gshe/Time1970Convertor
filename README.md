@@ -4,11 +4,11 @@
 ##Screen shot
 There should be a `Plug-ins` item in the xcode menu:
 
-![screenshots](Screenshots/screenshot1.png)
+![screenshots](Screenshots/Screenshot1.png)
 
 When you click the menu, convert window will show:
 
-![screenshots](Screenshots/screenshot2.png)
+![screenshots](Screenshots/Screenshot2.png)
 
 ## Install
 
