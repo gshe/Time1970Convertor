@@ -31,9 +31,9 @@
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" id="Kam-i7-VQI">
                             <font key="font" metaFont="system"/>
                             <mutableString key="title">Notes:
-This plugin is used for convert time between mili seconds from 1970-01-01 00-00-00 and standard time format.
-(1) if you input mili seconds since 1970-01-01 00-00-00， it will convert the time to UTC time string.
-(2) if you input UTC Time string， it will convert the time to mili seconds since 1970-01-01 00-00-00.</mutableString>
+This plugin is used for convert time between millisecond from 1970-01-01 00-00-00 and standard time format.
+(1) if you input millisecond since 1970-01-01 00-00-00， it will convert the time to UTC time string.
+(2) if you input UTC Time string， it will convert the time to millisecond since 1970-01-01 00-00-00.</mutableString>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
