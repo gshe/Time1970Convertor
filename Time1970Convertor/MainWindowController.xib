@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
     <dependencies>
         <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="9531"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="10117"/>
     </dependencies>
     <objects>
         <customObject id="-2" userLabel="File's Owner" customClass="MainWindowController">
@@ -30,10 +30,10 @@
                         <rect key="frame" x="18" y="187" width="524" height="151"/>
                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" id="Kam-i7-VQI">
                             <font key="font" metaFont="system"/>
-                            <mutableString key="title">Notes:
+                            <string key="title">Notes:
 This plugin is used for convert time between millisecond from 1970-01-01 00-00-00 and standard time format.
 (1) if you input millisecond since 1970-01-01 00-00-00， it will convert the time to UTC time string.
-(2) if you input UTC Time string， it will convert the time to millisecond since 1970-01-01 00-00-00.</mutableString>
+(2) if you input UTC Time string， it will convert the time to millisecond since 1970-01-01 00-00-00.</string>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
